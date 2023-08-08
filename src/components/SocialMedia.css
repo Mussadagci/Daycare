@@ -1,0 +1,17 @@
+.social-media-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+  }
+  
+  .social-media-icon {
+    font-size: 24px;
+    margin: 0 10px;
+    color: #007bff; /* Change color as needed */
+    transition: color 0.3s;
+  }
+  
+  .social-media-icon:hover {
+    color: #0056b3; /* Change color on hover */
+  }
+  
